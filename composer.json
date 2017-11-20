@@ -1,14 +1,14 @@
 {
-    "name": "xiyuera/swoole_mqtt",
-    "description": "swoole mqtt server",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
+    "name":"xiyuera/swoole_mqtt",
+    "description":"swoole mqtt server",
+    "type":"library",
+    "license":"MIT",
+    "authors":[
         {
-            "name": "xiyuera",
-            "email": "xiyuera@gmail.com"
+            "name":"xiyuera",
+            "email":"xiyuera@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability":"dev",
+    "require":{}
 }
